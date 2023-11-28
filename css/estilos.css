@@ -1,6 +1,6 @@
 :root {
   --cinza: #aaa;
-  --azul-caneta: #190bde;
+  --azul-caneta: rgba(255, 251, 0, 0.623);
   --vermelha-escura: #af303f;
   --branca: #fff;
   --luz: rgb(229, 255, 0);
